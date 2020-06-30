@@ -7,6 +7,9 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Authors>XeppIT</Authors>
     <Description>A Set of Blazor components using Bootstrap.</Description>
+    <PackageProjectUrl>https://github.com/Xeppit/XeppIT.SimpleBlazorBootstrap/tree/master</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Xeppit/XeppIT.SimpleBlazorBootstrap/tree/master</RepositoryUrl>
+    <PackageTags>Blazor, Bootstrap, Components</PackageTags>
   </PropertyGroup>
 
 
